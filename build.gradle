@@ -61,3 +61,6 @@ compileTestKotlin {
     kotlinOptions.jvmTarget = "1.8"
 }
 
+allprojects {
+    project.version = scmVersion.version
+}
