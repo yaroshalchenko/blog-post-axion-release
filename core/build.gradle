@@ -3,9 +3,9 @@ plugins {
 }
 
 //apply plugin: 'pl.allegro.tech.build.axion-release'
-
-//group 'pl.aetas'
-//version ${projectVersion}
+//
+////group 'pl.aetas'
+//version rootProject.version
 
 sourceCompatibility = 1.8
 
