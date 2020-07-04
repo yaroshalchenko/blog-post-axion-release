@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-apply plugin: 'pl.allegro.tech.build.axion-release'
+//apply plugin: 'pl.allegro.tech.build.axion-release'
 
 //group 'pl.aetas'
 //version ${projectVersion}
