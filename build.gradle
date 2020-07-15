@@ -42,6 +42,8 @@ scmVersion {
     }
 }
 
+//hello
+
 group 'pl.aetas'
 version = scmVersion
 repositories {
